@@ -1,0 +1,12 @@
+Angular
+->view
+->components
+->Services
+
+Https client
+
+Spring
+->Spring Rest controller
+->spring Data JPA
+
+Mysql
