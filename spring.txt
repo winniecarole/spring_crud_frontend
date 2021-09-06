@@ -10,3 +10,11 @@ Spring
 ->spring Data JPA
 
 Mysql
+
+Angular service
+
+{
+    "firstName": "winnie",
+    "lastName": "Tongle",
+    "email": "w@gmail.com"
+}
